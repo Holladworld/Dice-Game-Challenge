@@ -16,3 +16,5 @@ Including setting up the HTML structure, generating random dice numbers, updatin
 
 # summary
 The use of JavaScript to manipulate the Document Object Model (DOM) to change the content and appearance of the webpage based on the game's outcome. It also emphasizes writing clean and readable code.
+
+[Game interface](dicee.jpg
